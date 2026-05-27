@@ -13,7 +13,6 @@ El diseño considera buenas prácticas de orientación a objetos y la aplicació
 
 ## 2. Diagrama de Casos de Uso
 
-[Diagrama de Casos de Uso]
 <img width="421" height="756" alt="image" src="https://github.com/user-attachments/assets/7691e067-7ff9-4c33-9cc3-f623b38d362b" />
 
 
@@ -35,7 +34,6 @@ También se aplicaron relaciones `<<extend>>` para representar comportamientos o
 
 ## 3. Diagrama de Clases
 
-![Diagrama de Clases]
 <img width="2397" height="619" alt="image" src="https://github.com/user-attachments/assets/66b3524c-8f12-4f26-aab4-426993fc5601" />
 
 
@@ -59,7 +57,6 @@ El patrón `<<Bridge>>` se aplica en la relación entre `CanalVisualizacion` y `
 
 ## 4. Diagrama de Implementación
 
-![Diagrama de Implementación]
 <img width="1732" height="452" alt="image" src="https://github.com/user-attachments/assets/db93acbb-5147-46fc-a829-17e185ed1289" />
 
 
